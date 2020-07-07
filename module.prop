@@ -1,0 +1,6 @@
+id=xiaomi-mi-a2-android-10-fingerprint-security_patch-props
+name=Xiaomi Mi A2 android 10 fingerprint security_patch props
+version=v1.0
+versionCode=1
+author=mmkiir
+description=Changes ro.build.fingerprint and ro.build.version.security_patch in build.prop to match latest stock rom. This enables the device to pass CTS profile check.
